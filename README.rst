@@ -14,5 +14,5 @@ See http://pangeo.io to learn more about the Pangeo project.
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
 .. |Binder| image:: https://binder.pangeo.io/badge_logo.svg
- :target: https://binder.pangeo.io/v2/gh/pangeo-data/pangeo-cmip6-examples/master
+ :target: https://binder.pangeo.io/v2/gh/pangeo-data/pangeo-cmip6-examples/master/?urlpath=git-pull?repo=https://github.com/derekocallaghan/pangeo-cmip6-examples%26amp%3Burlpath=lab/tree/pangeo-cmip6-examples
 
